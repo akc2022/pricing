@@ -1,0 +1,27 @@
+{% extends 'website/base.html' %}
+
+{% block content %}
+{% load static %}
+<table class="table">
+  <tr>
+    <th scope = "col">City</th>
+    <th scope = "col">State</th>
+    <th scope = "col">Price ($)</th>
+  </tr>
+  {% for home in price_list %}
+  <tbody>
+  <tr>
+   <td> {{ home.city }} </td>
+   <td> {{ home.state }}</td>
+   <td> {{ home.average_price }}  </td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<img src="data:img/png;base64, {{chart| safe}}"/>
+
+<img src='{% static "website/img/avocado.jpg" %}' /> 
+
+
+{% endblock %}
+Copyright (c) {{ current_year }}
