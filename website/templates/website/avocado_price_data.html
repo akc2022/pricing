@@ -1,9 +1,34 @@
 {% extends 'website/base.html' %}
 
 {% block content %}
-<h1>Hello Avocado</h1>
-<br/>
-{{ price_list }}
-<br/>
+<div class="container-flex">
+	<div class="row d-flex align-items-center" class="avocadoData">
+		<div class ="col">
+<table class="table w-75">
+  <tr>
+    <th scope = "col">City</th>
+    <th scope = "col">Type</th>
+    <th scope = "col">Average Price ($)</th>
+    <th scope = "col">Total Volume Sold</th>
+    <th scope = "col">4046 Sold</th>
+    <th scope = "col">4225 Sold</th>
+    <th scope = "col">4770 Sold</th>
+  </tr>
+  {% for avocado in price_list %}
+  <tbody>
+  <tr>
+   <td> {{ avocado.city }} </td>
+   <td> {{ avocado.avocado_type }}  </td>
+   <td> {{ avocado.average_price }}</td>
+   <td> {{ avocado.total_volume }}</td>
+   <td> {{ avocado.avocado_4046 }} </td>
+   <td> {{ avocado.avocado_4225 }}</td>
+   <td> {{ avocado.avocado_4770 }}  </td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 {% endblock %}
-Copyright (c) {{ current_year }}
