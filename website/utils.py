@@ -16,7 +16,7 @@ def get_plot(x,y):
 	plt.switch_backend('AGG')
 	plt.figure(figsize = (8,4))
 	plt.title("Single Family Home Price")
-	plt.bar(x,y)
+	plt.bar(x,y, color='#568520')
 	plt.xlabel("City")
 	plt.ylabel("Price ($)")
 	plt.tight_layout()
