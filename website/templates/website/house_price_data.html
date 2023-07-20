@@ -1,6 +1,9 @@
 {% extends 'website/base.html' %}
 
 {% block content %}
+<div class="container-flex">
+  <div class="row" id="avocadoData">
+    <div class ="col justify-content-center">
 <table class="table">
   <tr>
     <th scope = "col">City</th>
@@ -17,7 +20,13 @@
   {% endfor %}
   </tbody>
 </table>
-<img src="data:img/png;base64, {{chart| safe}}"/>
+</div>
+<div class="col">
+  <img src="data:img/png;base64, {{chart| safe}}"/>
+</div>
+</div>
+</div>
+</div>
 
 
 {% endblock %}
