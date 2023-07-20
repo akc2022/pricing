@@ -14,7 +14,7 @@ def get_graph():
 
 def get_plot(x,y):
 	plt.switch_backend('AGG')
-	plt.figure(figsize = (7,4))
+	plt.figure(figsize = (8,4))
 	plt.title("Median Home Sale Price")
 	plt.bar(x,y, color='#568520')
 	plt.xlabel("City")
