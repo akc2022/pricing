@@ -3,7 +3,9 @@ body {
 }
 
 
-
+#homepage {
+	height: 100vh;
+}
 
 table {
 	border: 1px solid;
