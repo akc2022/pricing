@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 171,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\\"
+					},
+					"AgAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoAAAAAAAAACsAAAAjaG9tZXBhZ2UsICNhdm9jYWRvRGF0YSB7CgloZWlnaHQ6IDEwMHZoOwp9",
+					"AQAAAAAAAAABAAAAUgAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					3,
+					"left_delete",
+					null,
+					"AwAAACcAAAAAAAAAJwAAAAAAAAABAAAAXCYAAAAAAAAAJgAAAAAAAAABAAAACiUAAAAAAAAAJQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/allisoncallahan/allisonProjects/pricingsite/pricing/website/templates/home.html",
+		"/Users/allisoncallahan/allisonProjects/pricingsite/pricing/website/templates/navbar.html",
+		"/Users/allisoncallahan/allisonProjects/pricingsite/pricing/website/templates/house_price_data.html",
+		"/Users/allisoncallahan/allisonProjects/pricingsite/pricing/website/templates/base.html",
+		"/Users/allisoncallahan/allisonProjects/pricingsite/pricing/pricing/urls.py",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/static/avocadoHome/css/style.css",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/avocadoHome/urls.py",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/avocadoHome/views.py",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/avocadoHome/templates/home.html",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/django_app/urls.py",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/.env",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/static/avocado/css/style.css",
+		"/Users/allisoncallahan/cuProject/finalProject/django_app/static/styles.css",
+		"/Users/allisoncallahan/allisonProjects/avocado/avocado_home/Procfile",
+		"/Users/allisoncallahan/allisonProjects/avocado/Procfile",
+		"/Users/allisoncallahan/allisonProjects/avocado/avocado_home/website/templates/index.html",
+		"/Users/allisoncallahan/allisonProjects/allisonAvocado/Procfile",
+		"/Users/allisoncallahan/allisonProjects/allisonAvocado/avocado_project/avocado_data/templates/home.html",
+		"/Users/allisoncallahan/allisonProjects/allisonAvocado/avocado_project/avocado_project/settings.py",
+		"/Users/allisoncallahan/allisonProjects/allisonAvocado/avocado_project/avocado_data/urls.py",
+		"/Users/allisoncallahan/allisonProjects/allisonAvocado/avocado_project/avocado_data/views.py",
+		"/Users/allisoncallahan/allisonProjects/allisonAvocado/avocado_project/avocado_project/urls.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/admin.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/models.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/views.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/virtual/lib/python3.11/site-packages/django/contrib/gis/gdal/field.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/templates/avocado_data/home.html",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/templates/home.html",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_website/settings.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_website/urls.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/urls.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/tests.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/avocado_data/apps.py",
+		"/Users/allisoncallahan/allisonProjects/Avocado/avocado_website/manage.py",
+		"/Users/allisoncallahan/allisonProjects/myclub/myclub_website/events/Templates/home.html",
+		"/Users/allisoncallahan/allisonProjects/myclub/myclub_website/events/views.py",
+		"/Users/allisoncallahan/allisonProjects/myclub/myclub_website/events/urls.py",
+		"/Users/allisoncallahan/allisonProjects/myclub/myclub_website/myclub_website/urls.py",
+		"/Users/allisoncallahan/allisonProjects/myclub/myclub_website/myclub_website/settings.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
